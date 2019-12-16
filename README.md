@@ -1,5 +1,8 @@
 # terra-analitika
-Make Python "down to earth" 🌎 for young geoscientists. We create numerous projects and notebooks that implement Python in the field of geoscience (geophysics, geology, reservoir). Initiated by a group of data science enthusiasts of Geophysics of Institut Teknologi Bandung. Made in Indonesia. 
+
+We are a group of geoscience and data science enthusiasts consisting of alumni and students of Geophysics of Bandung Institute of Technology, Indonesia. Through terra-analitika, we dream of being the powerhouse of computational geoscience in Indonesia that runs on the wonders of data science, machine learning, cloud computation, and more. There are lots of projects that we build here to promote programming skills for young geoscientists (geophysicists, geologists, & reservoir) through Google Colab. 
+
+Make Python "down to earth" 🌎 for young geoscientists. Made in Indonesia. 
 
 Best, 
 
